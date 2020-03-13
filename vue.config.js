@@ -1,0 +1,3 @@
+module.ecports = {
+    lintOnSave:false
+}
